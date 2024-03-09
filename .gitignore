@@ -1,0 +1,20 @@
+# Arquivos gerados durante a compilação
+*.o            # Arquivos objeto
+*.exe          # Executáveis no Windows
+*.out          # Executáveis em sistemas Unix
+*.dll          # Bibliotecas dinâmicas no Windows
+*.so           # Bibliotecas compartilhadas em sistemas Unix
+*.dylib        # Bibliotecas dinâmicas no macOS
+
+# Arquivos gerados por IDEs e editores de texto
+.vscode/      # Pasta do Visual Studio Code
+*.suo         # Arquivo de configuração do Visual Studio
+*.user        # Arquivo de configuração do Visual Studio
+*.sdf         # Banco de dados do Visual Studio
+*.opensdf     # Banco de dados do Visual Studio
+*.cbp         # Arquivo de projeto do Code::Blocks
+*.layout      # Arquivos de layout do Qt Creator
+
+# Arquivos de dependências de terceiros
+/lib/         # Pasta de bibliotecas
+/bin/         # Pasta de binários
